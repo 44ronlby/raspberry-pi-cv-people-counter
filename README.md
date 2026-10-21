@@ -1,8 +1,8 @@
-# Eye in the Pi: A Raspberry Pi-Powered Computer Vision System for Real-Time People Counting
+# A Raspberry Pi-Powered Computer Vision System for Real-Time People Counting
 
 ## Project Overview
 
-"Eye in the Pi" is an embedded computer vision system designed for real-time crowd detection, people counting, and occupancy monitoring using a Raspberry Pi 4B. Utilizing YOLOv8 object detection and OpenCV, the system detects human presence, tracks room capacity, triggers hardware alerts (LEDs and Buzzer) when thresholds are breached, and logs count changes to a local CSV dataset. An interactive Streamlit web dashboard provides real-time visualization of occupancy trends over time.
+An embedded computer vision system designed for real-time crowd detection, people counting, and occupancy monitoring using a Raspberry Pi 4B. Utilizing YOLOv8 object detection and OpenCV, the system detects human presence, tracks room capacity, triggers hardware alerts (LEDs and Buzzer) when thresholds are breached, and logs count changes to a local CSV dataset. An interactive Streamlit web dashboard provides real-time visualization of occupancy trends over time.
 
 This project was developed for CPE0035L Embedded Systems Laboratory at Far Eastern University Alabang.
 

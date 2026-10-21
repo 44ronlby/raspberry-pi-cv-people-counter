@@ -1,0 +1,17 @@
+# 1. Environment folder (Do NOT commit your venv)
+venv/
+.venv/
+
+# 2. Python bytecode cache (Auto-generated files that clutter Git)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 3. Local environment secrets (If you use a .env file for API keys later)
+.env
+
+# 4. OS or Editor specific files (Optional but recommended)
+.DS_Store
+.vscode/
+.idea/
